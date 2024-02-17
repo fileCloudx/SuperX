@@ -129,9 +129,7 @@ I can't find the <b>{}</b> in my database! 🥲
 
     FILE_CAPTION = """<b>📂 {file_name}</b>
 <b>♻️ Size: {file_size}</b>
-<b>⚡ Powered By:- @YourXCloud
-
-🚫 ᴘʟᴇᴀsᴇ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ᴄʟᴏsᴇ ʙᴜᴛᴛᴏɴ ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ sᴇᴇɴ ᴛʜᴇ ᴍᴏᴠɪᴇ 🚫"""
+<b>⚡ Powered By:- @YourXCloud</b>"""
 
     WELCOME_TEXT = """👋 Hello {mention}, Welcome to {title} group! 💞"""
 
