@@ -5,7 +5,7 @@ from openai import OpenAI
 
 ai_client = OpenAI(api_key=OPENAI_API)
 
-@Client.on_message(filters.command("openai"))
+@Client.on_message(filters.command("ask"))
 async def ask_question(client, message):
     if len(OPENAI_API) == 0:
         return await message.reply("OPENAI_API is empty")
