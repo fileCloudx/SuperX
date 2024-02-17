@@ -2,7 +2,7 @@ class script(object):
     START_TXT = """<b>Hey {}, <i>{}</i>
 I Am PowerFul Auto Filter With Link Shortener. Just Add Me To Your Group And Enjoy... ♻️</b>"""
 
-    MY_ABOUT_TXT = """👰 Name : <a href=https://t.me/DesiWildBot>Archive</a>
+    MY_ABOUT_TXT = """👰 Name : <a href=https://t.me/EightFlixBot>EightFlix</a>
  🦹 Creator : <a href='https://t.me/YourX'>YourX</a> 
  🤖 Version : 4.0</b>"""
 
